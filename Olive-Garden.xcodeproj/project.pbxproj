@@ -56,13 +56,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		96D62A3A2DF128150054B3CE /* Exceptions for "Olive-Garden" folder in "Olive-Garden" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 96D629EC2DF128130054B3CE /* Olive-Garden */;
-		};
 		96D62A3E2DF128150054B3CE /* Exceptions for "Olive-Garden Extension" folder in "Olive-Garden Extension" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
@@ -75,9 +68,6 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		96D629EF2DF128130054B3CE /* Olive-Garden */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				96D62A3A2DF128150054B3CE /* Exceptions for "Olive-Garden" folder in "Olive-Garden" target */,
-			);
 			path = "Olive-Garden";
 			sourceTree = "<group>";
 		};
